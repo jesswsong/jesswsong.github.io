@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist & Product Manager # subtitle: Data Scientist @<a href='hdsi.ucsd.edu'>UC San Diego</a>, Wells Fargo, Qualcomm Institute and more. <br> Result oriented & proactive leader.
+subtitle: Data Scientist @Wells Fargo & <a href='qi.ucsd.edu'>Qualcomm Institute</a>. 4th-year @<a href='hdsi.ucsd.edu'>UCSD</a>.
 
 profile:
   align: right
@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 Hi! I'm interested in building grounded & applicable machine learning solutions.
 
-I've worked at:
+My work:
 - [Wells Fargo](https://www.wellsfargo.com/) *Data Management*
   - Deployed two automation stratgies grounded in machine learning and pre-trained deep learning models, currently alleviating 20% of process workload per resource.
 - [Qualcomm Institute](https://qi.ucsd.edu/) *MEG Center*
@@ -24,18 +24,17 @@ I've worked at:
 - [Franklin Templeton](https://www.franklintempleton.com/) *Digital Assets VC*
   - Built ad-hoc web3 market data dashboards, data pipeline, and automated a cron-job
 
-I have led:
+My projects:
 - [research capstone project](https://dsc180-b11-2.github.io/layout-grounded-optimization/) advised by *Dr. Alex Cloninger and Dr. Rayan Saab.*
-- [Diversity in Data Science]
-- [BAYCSC] development of
+- Customer Cohort Analysis using unsupervised learning and data mining at [HaulPay](haulpay.co)
 
-My expertise includes:
-  - Data mining & traditional machine learning
-  - Data visualization & interpretation for business
-  - Integrating deep learning models into user-friendly environments
+At large, I'm interested in understanding individuals and communities behind data and derive business insights accordingly.
 
-Some of my other interests include journaling, traveling, & boxing.
-- 🌏 Fun fact: I've lived in China, Canada, and the States while growing up.
+
+Other fun projects:
+- [CS-CREATE 001](https://online.ucsd.edu/courses/CSE+CREATE-CS-001/) A teacher-training course I led to deliver in high school, aimed at educating teachers to teach CS from the perspective of social good
+- [BAYCSC](baycsc.org) where I learned my leadership skills and to build a meaningful team.
+- Some of my other interests include journaling, traveling, & boxing.
 
 
 
