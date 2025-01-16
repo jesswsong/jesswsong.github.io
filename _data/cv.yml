@@ -1,97 +1,107 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.S. in Data Science
+      institution: University of California San Diego
+      year: 2021 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
+        - Major GPA: 3.98/4.00
+        - Minor in Mathematics
+        
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Machine Learning Researcher
+      institution: <a href="https://github.com/jesswsong">Qualcomm Institute</a>
+      year: 2024/03 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed interpretable Extra Trees model and ensemble classifier, achieving 10-fold validated 85% and 92% accuracies respectively on imbalanced dataset for MEG spike detection, paper manuscript in preparation
+        - Engineered parallelized data ETL pipeline of 70GB data from AWS S3 using PySpark, reducing loading time by 70%
+
+    - title: Data Scientist Intern
+      institution: Wells Fargo Bank
+      year: 2024/06 - 2024/08
       description:
-        - Description 1.
-        - Description 2.
+        - Spearheaded <br>0 to 1</br> development of scalable automation solution for quality assurance manual process, reducing 53% workload per resource through data mining, training Name Entity Recognition model and XGBoost Classifier
+        - Presented high-level data analysis insights to non-technical audience effectively, endorsed by department lead 
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Data Science Intern
+      institution: Franklin Templeton Investments
+      year: 2023/07 - 2023/08
       description:
+        - Implemented 5 ad-hoc data dashboards to generate insights about web3 market that directly informed investment decisions using <i>Python, matplotlib and seaborn</i>
+        - Built ETL data pipeline for multiple data sources through writing complex SQL queries via Snowflake 	
+        - Authored Market Insight findings in Q2 Fund Report and presented data-driven findings to stakeholders
+        - Developed a binary short-text classifier with 0.88 AUC and 80% accuracy using Word2Vec and LightGBM to monitor startup community Twitter communication; reducing daily Tweet reading workload by 32%
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Marketing Data Analytics Intern
+      institution: A Round Entertainment
+      year: 2023/12 - 2024/02
+      description:
+        - Built hierarchical clustering model and data pipeline to forecast artist revenue based on social media data, delivering data-centric concert budgeting
+        - Generated report regarding best locations and revenue estimate for concert hosting
 
-- title: Open Source Projects
+    - title: Data Analytics Intern
+      institution: HaulPay
+      year: 2023/09 - 2023/12
+      description:
+        - Deployed in-depth customer cohort analysis through data mining and visualizations                                                                    
+
+- title: Research Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/jesswsong">Layout-Grounded Stable Diffusion</a>
+      year: 2024
+      description: 
+        - Led team of 4 to conduct computer vision research and integrate two diffusion model architecture to create a new method that enables pixel-level control for text-prompted image generation
+        - Architected full-stack end-to-end canvas UI that transforms user sketches into detailed images
+        - Recipient of the UCSD Data Science Undergraduate Scholarship
+
+    - title: <a href="https://github.com/jesswsong">LLM Prompt Recovery</a>
+      year: 2023
+      description: 
+        - Led team of 4 to implement 4 transfer and reinforcement learning models to recover prompt from LLM response
+        - Implemented custom neural network with GPT-2 encoder and BERT decoder, creating fully-functional LLM with logically coherent prompt outputs that reach 0.68 cosine similarity with original prompt for Kaggle competition
+    
+    - title: Recommender System on Yelp Restaurant Data
+      year: 2023
+      description:
+        - Led a team of 4 to implement a recommender system with latent factor collaborative filtering, achieving similar results with Yelp’s search engine on 2 test cases for cheap burgers in Willow Grove, PA and Cinnaminson, NJ
+        - Preprocessed 14 features from two complex datasets using Python, created EDA visualizations, and compiled report
+        - Optimized model runtime by 95% by implementing gradient descent on matrix factorization using sparse matrices
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - UCSD Data Science Undergraduate Scholarship
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Cornell University Machine Learning Foundations Certificate
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine Learning
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Computer Vision and Image Generation
+        - Natural Language Processing
+        - Recommender Systems
+    - title: Data Engineering
       items:
-        - Description 1.
-        - Description 2.
+        - Large-scale Data Processing
+        - ETL Pipeline Development
 
-- title: Other Interests
-  type: list
+- title: Technical Skills
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Technical
+      items:
+        - Languages Python, SQL, Java, R, PySpark, JavaScript, HTML/CSS, 
+        - AWS (SageMaker, EC2, Lambda, S3)
+        - Git, Unix/Linux
+    - title: Product Management
+      items:
+        - Leadership, Agile Methodologies, Communication, Conflict Management

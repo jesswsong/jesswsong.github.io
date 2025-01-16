@@ -12,7 +12,7 @@ group :jekyll_plugins do
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-regex-replace'
-    # gem 'jekyll-scholar'
+    gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-tabs'
     gem 'jekyll-toc'
@@ -28,4 +28,5 @@ group :other_plugins do
     gem 'httparty'
     gem 'observer' # used by jekyll-scholar
     gem 'ostruct' # used by jekyll-twitter-plugin
+    gem 'classifier-reborn'
 end

@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist @Wells Fargo & <a href='qi.ucsd.edu'>Qualcomm Institute</a>. 4th-year @<a href='hdsi.ucsd.edu'>UCSD</a>.
+subtitle: Data Scientist | Product Manager
 
 profile:
-  align: right
+  align: left
   image: jessica_cdmx_pfp.png
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -14,27 +14,12 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hi! I'm interested in building grounded & applicable machine learning solutions.
 
-My work:
-- [Wells Fargo](https://www.wellsfargo.com/) *Data Management*
-  - Deployed two automation stratgies grounded in machine learning and pre-trained deep learning models, currently alleviating 20% of process workload per resource.
-- [Qualcomm Institute](https://qi.ucsd.edu/) *MEG Center*
-  - Developed ensemble learning models to recognize spikes from high-dimensional MEG data. 
-- [Franklin Templeton](https://www.franklintempleton.com/) *Digital Assets VC*
-  - Built ad-hoc web3 market data dashboards, data pipeline, and automated a cron-job
+Hi! I'm Jessica, a recent data science graduate from <a href='hdsi.ucsd.edu'>UC San Diego</a>. 
 
-My projects:
-- [research capstone project](https://dsc180-b11-2.github.io/layout-grounded-optimization/) advised by *Dr. Alex Cloninger and Dr. Rayan Saab.*
-- Customer Cohort Analysis using unsupervised learning and data mining at [HaulPay](haulpay.co)
+Previously, I developed automation strategies backed by machine learning (ML) and deep learning (DL) models at <a href='wellsfargo.com'>Wells Fargo</a>. I worked on building reliable ETL pipelines and ad-hoc dashboards at <a href='franklintempleton.com'>Franklin Templeton</a>. I've also led a cross-functional team of nine to develop our own geosocial networking <a href='https://docs.google.com/presentation/d/1l2HFJ7AXcpxi91gGb1H9ZuEknb7tzxEGTpDww3MFFyU/edit?usp=sharing'>app</a>.
 
-At large, I'm interested in understanding individuals and communities behind data and derive business insights accordingly.
-
-
-Other fun projects:
-- [CS-CREATE 001](https://online.ucsd.edu/courses/CSE+CREATE-CS-001/) A teacher-training course I led to deliver in high school, aimed at educating teachers to teach CS from the perspective of social good
-- [BAYCSC](baycsc.org) where I learned my leadership skills and to build a meaningful team.
-- Some of my other interests include journaling, traveling, & boxing.
+I thrive by collaborating and getting things done. I'm eager to apply my technical and product skills to solve real-world problems with the aid of data. 
 
 
 
