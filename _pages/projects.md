@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Other than LLM, I've worked with a plently of projects in text mining, hypothesis testing, and data analytics. For fun, I work on calligraphy design. This page is still in development! 
 nav: true
 nav_order: 3
 display_categories: [work, fun]

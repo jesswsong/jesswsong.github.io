@@ -1,6 +1,6 @@
 {
     
-    "work": [
+    "Work": [
       {
         "name": "Wells Fargo Bank",
         "position": "Data Scientist Intern",
@@ -58,6 +58,35 @@
           "Deployed in-depth customer cohort analysis through data mining and visualizations"
         ]
       }
+    ],
+
+    "leadership": [
+      {
+        "name": "TripleC",
+        "position": "Product Manager",
+        "startDate": "2022-06",
+        "endDate": "2023-01",
+        "highlights": [
+          "Designed and analyzed market research through A/B testing, evaluating user pain points and market needs distributing 204 user surveys and conducting 20 user interviews",
+          "Spearheaded 9-member cross-functional team to develop geosocial networking app by executing weekly agile sprints"]
+      },
+      {
+        "name": "Diversity in Data Science ",
+        "position": "Professional Events Chair",
+        "startDate": "2022-03",
+        "endDate": "2023-02",
+        "highlights": [
+          "Organized Data Science 101, an event that supported 50+ students with no background in tech to navigate internships, research, and a career path in data"]
+      },
+      {
+        "name": "Bay Area Youth Computer Science Council",
+        "position": "Co-founder",
+        "startDate": "2019-03",
+        "endDate": "2021-08",
+        "highlights": [
+          "Managed 12-member cross-functional team to brainstorm, coordinate and execute 10 events with 200+ participants, and develop a teacher training course at UCSD"]
+      }
+
     ],
     "education": [
       {
