@@ -9,23 +9,30 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
+  },{id: "nav-resume",
+          title: "resume",
+          description: "The following is a detailed version of my resume. For a one-pager, please download the pdf on the right.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Other than LLM, I&#39;ve worked with a plently of projects in text mining, hypothesis testing, and data analytics. For fun, I work on calligraphy design. This page is still in development!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
         },{id: "nav-misc",
           title: "misc",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "This page is under construction 🚧",
           section: "Navigation",
           handler: () => {
             window.location.href = "/misc/";
@@ -108,18 +115,18 @@ ninja.data = [{
           window.open("https://github.com/jesswsong", "_blank");
         },
       },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/ampersandjessica", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/jesswsong", "_blank");
-        },
-      },{
-        id: 'social-wechat_qr',
-        title: 'Wechat_qr',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
