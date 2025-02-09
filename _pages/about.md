@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist | Product Manager
+subtitle: 
 
 profile:
-  align: left
+  align: right
   image: jessica_cdmx_pfp.png
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -15,11 +15,29 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Jessica, a recent data science graduate from <a href='hdsi.ucsd.edu'>UC San Diego</a>. 
+Hi there 👋
+I'm a senior at [UC San Diego](https://www.hdsi.ucsd.edu/) studying Data Science & Business. 
 
-Previously, I developed automation strategies backed by machine learning (ML) and deep learning (DL) models at <a href='wellsfargo.com'>Wells Fargo</a>. I worked on building reliable ETL pipelines and ad-hoc dashboards at <a href='franklintempleton.com'>Franklin Templeton</a>. I've also led a cross-functional team of nine to develop our own geosocial networking <a href='https://docs.google.com/presentation/d/1l2HFJ7AXcpxi91gGb1H9ZuEknb7tzxEGTpDww3MFFyU/edit?usp=sharing'>app</a>.
+**My work:**
+- 🤩 I'm interested in <ins>understanding</ins> the people behind data and <ins>derive business solutions</ins> accordingly.
+- I built automation solutions at [Wells Fargo](https://www.wellsfargo.com/) using ML and NLP methods that sped up manual quality assurance process by 53%.
+- I have:
+    - developed Stable Diffusion-based webapp that transforms user input into creative artwork in my [senior capstone project](https://dsc180-b11-2.github.io/layout-grounded-optimization/), advised by *Dr. Alex Cloninger and Dr. Rayan Saab.* 
+    - built ad-hoc web3 market data dashboards & statistical models at [Franklin Templeton](https://www.franklintempleton.com/).
 
-I thrive by collaborating and getting things done. I'm eager to apply my technical and product skills to solve real-world problems with the aid of data. 
+**Looking for:**
+- I'm looking for new grad roles data scientist, data analyst and software engineer.
+- Find me for:
+    - data-mining & machine learning
+    - integrate deep learning models into user-friendly environments
+    - bridging technical & non-technical teams
+    - getting things done.
+
+**Myself:**
+- 💬 Some of my other interests include calligraphy, hiking, & boxing.
+- 🌏 Fun fact: I've lived in China, Canada and the States growing up 
+
+📫 Feel free to reach out!
 
 
 

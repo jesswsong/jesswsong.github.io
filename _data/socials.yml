@@ -45,7 +45,7 @@ linkedin_username: jesswsong
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-# custom_social: # can be any name here other than the ones already defined above
-#   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-#   title: Custom Social
-#   url: https://www.alberteinstein.com/
+custom_social: # can be any name here other than the ones already defined above
+  logo: https://images.ctfassets.net/un655fb9wln6/appIcon-calendly/3e6adf8496439d0770be290a4e49beae/calendly.png # can be png, svg, jpg
+  title: Calendly
+  url: https://calendly.com/jessicasong

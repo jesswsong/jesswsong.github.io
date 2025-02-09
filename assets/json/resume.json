@@ -6,7 +6,6 @@
         "position": "Data Scientist Intern",
         "startDate": "2024-06",
         "endDate": "2024-08",
-        "summary": "Developed automation solutions for quality assurance processes",
         "highlights": [
           "Spearheaded 0 to 1 development of scalable automation solution, reducing 53% workload per resource",
           "Presented high-level data analysis insights to non-technical audience effectively"
@@ -18,7 +17,8 @@
         "url": "https://github.com/jesswsong",
         "startDate": "2024-03",
         "endDate": "present",
-        "summary": "Developing machine learning models and data pipelines for healthcare applications",
+        
+
         "highlights": [
           "Developed interpretable Extra Trees model and ensemble classifier, achieving 10-fold validated 85% and 92% accuracies respectively on imbalanced dataset for MEG spike detection",
           "Engineered parallelized data ETL pipeline of 70GB data from AWS S3 using PySpark, reducing loading time by 70%"
@@ -29,7 +29,7 @@
         "position": "Data Science Intern",
         "startDate": "2023-07",
         "endDate": "2023-08",
-        "summary": "Created data analytics solutions for investment decisions",
+        
         "highlights": [
           "Implemented 5 ad-hoc data dashboards for web3 market insights",
           "Built ETL data pipeline using complex SQL queries via Snowflake",
@@ -42,7 +42,7 @@
         "position": "Marketing Data Analytics Intern",
         "startDate": "2023-12",
         "endDate": "2024-02",
-        "summary": "Applied data analytics to music industry marketing",
+        
         "highlights": [
           "Built hierarchical clustering model for artist revenue forecasting",
           "Generated report for concert location and revenue estimation"
@@ -53,7 +53,7 @@
         "position": "Data Analytics Intern",
         "startDate": "2023-09",
         "endDate": "2023-12",
-        "summary": "Conducted customer analytics",
+        
         "highlights": [
           "Deployed in-depth customer cohort analysis through data mining and visualizations"
         ]
@@ -121,7 +121,7 @@
         "name": "Layout-Grounded Stable Diffusion",
         "url": "https://github.com/jesswsong",
         "startDate": "2024",
-        "summary": "Computer vision research for text-prompted image generation",
+        
         "highlights": [
           "Led team of 4 to integrate two diffusion model architectures",
           "Architected full-stack end-to-end canvas UI",
@@ -132,7 +132,7 @@
         "name": "LLM Prompt Recovery",
         "url": "https://github.com/jesswsong",
         "startDate": "2023",
-        "summary": "Natural language processing research",
+        
         "highlights": [
           "Led team of 4 to implement transfer and reinforcement learning models",
           "Implemented custom neural network with GPT-2 encoder and BERT decoder",
@@ -142,7 +142,7 @@
       {
         "name": "Recommender System on Yelp Restaurant Data",
         "startDate": "2023",
-        "summary": "Developed collaborative filtering system",
+        
         "highlights": [
           "Led team of 4 to implement recommender system",
           "Achieved comparable results to Yelp's search engine",
