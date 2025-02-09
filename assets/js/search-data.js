@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-resume",
           title: "resume",
-          description: "The following is a detailed version of my resume. For a one-pager, please download the pdf on the right.",
+          description: "For a one-pager, please download the pdf on the right.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -127,6 +127,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/jesswsong", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://calendly.com/jessicasong", "_blank");
         },
       },{
       id: 'light-theme',
