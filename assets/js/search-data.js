@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Other than LLM, I&#39;ve worked with a plently of projects in text mining, hypothesis testing, and data analytics. For fun, I work on calligraphy design. This page is still in development!",
+          description: "This page is still in development",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -70,29 +70,14 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+          section: "News",},{id: "projects-abnormal-meg-spike-detection",
+          title: 'Abnormal MEG Spike Detection',
+          description: "Conducted at Qualcomm Institute / Under Construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-bamboo-u",
+          title: 'Bamboo U',
+          description: "A small business that sells eco-friendly utensils I started in high school + my learnings",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
@@ -100,6 +85,26 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
+            },},{id: "projects-layout-grounded-stable-diffusion",
+          title: 'Layout-Grounded Stable Diffusion',
+          description: "My Senior Capstone + HDSI Undergraduate Scholarship",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/capstone_project/";
+            },},{id: "projects-finemotionfusion",
+          title: 'FinEmotionFusion',
+          description: "A multi-modality model desgined to classify emotions from financial meeting call audio and transcript.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fin_emotion_fusion/";
+            },},{id: "projects-llm-prompt-recovery",
+          title: 'LLM Prompt Recovery',
+          description: "Kaggle competition",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/llm_prompt_recovery/";
+            },},{id: "projects-quality-assurance-process-automation",
+          title: 'Quality Assurance Process Automation',
+          description: "Conducted at Wells Fargo",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wf_project/";
             },},{
         id: 'social-email',
         title: 'email',
