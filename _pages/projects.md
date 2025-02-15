@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Other than LLM, I've worked with a plently of projects in text mining, hypothesis testing, and data analytics. For fun, I work on calligraphy design. This page is still in development! 
+description: This page is still in development
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work, projects, fun]
 horizontal: false
 ---
 

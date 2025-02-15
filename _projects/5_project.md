@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Bamboo U
+description: A small business that sells eco-friendly utensils I started in high school + my learnings
+redirect: https://bamboou2020.wixsite.com/bamboou
 img: assets/img/1.jpg
-importance: 3
+importance: 1
 category: fun
+tags: ["product management", "0 to 1"]
 ---
 
 Every project has a beautiful feature showcase page.

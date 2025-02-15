@@ -3,9 +3,9 @@
  ******************************************************************************/
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100..900;1,100..900&family=Inter+Tight:wght@500..900&display=swap');
 
 // Typography
-
 p,
 h1,
 h2,
@@ -22,12 +22,35 @@ strong {
 }
 
 h1{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Inter Tight', 'Monteserrat', sans-serif;
+}
+
+h2{
+  font-family: 'Inter Tight', 'Monteserrat', sans-serif;
+  font-weight: 500;
+}
+
+h3{
+  font-family: 'Inter Tight', 'Monteserrat', sans-serif;
+  font-weight: 400;
+}
+h4{
+  font-family: 'Inter Tight', 'Monteserrat', sans-serif;
+  font-weight: 400;
+}
+h5{
+  font-family: 'Inter Tight', 'Monteserrat', sans-serif;
+  font-weight: 400;
+}
+h6{
+  font-family: 'Inter Tight', 'Monteserrat', sans-serif;
+  font-weight: 600;
 }
 
 body {
-  font-family: 'Noto Sans', serif;
+  font-family: 'Albert Sans', serif;
 }
+
 
 
 hr {
@@ -65,6 +88,16 @@ table.table a {
   &.table-bordered {
     border: 1px solid var(--global-divider-color) !important;
   }
+}
+
+.grid-item {
+  width: 270px;
+  // margin-bottom: 10px;
+  
+  &.row-1 { height: 500px; }  // default single row
+  &.row-2 { height: 600px; }  // double row
+  &.row-3 { height: 650px; }  // triple row
+  &.row-0 {height: 400px;}
 }
 
 blockquote {

@@ -16,24 +16,24 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Hi there 👋
-I'm a senior at [UC San Diego](https://www.hdsi.ucsd.edu/) studying Data Science & Business. 
+I'm a senior at [UC San Diego](https://www.hdsi.ucsd.edu/) studying Data Science & Math. 
 
-**My work:**
-- 🤩 I'm interested in <ins>understanding</ins> the people behind data and <ins>derive business solutions</ins> accordingly.
-- I built automation solutions at [Wells Fargo](https://www.wellsfargo.com/) using ML and NLP methods that sped up manual quality assurance process by 53%.
-- I have:
-    - developed Stable Diffusion-based webapp that transforms user input into creative artwork in my [senior capstone project](https://dsc180-b11-2.github.io/layout-grounded-optimization/), advised by *Dr. Alex Cloninger and Dr. Rayan Saab.* 
+<h6>My work:</h6>
+- 🤩 I'm interested in `understanding` the people behind data and `derive` business solutions accordingly.
+- Latest: developed automation solutions at [Wells Fargo](https://www.wellsfargo.com/) using ML and deep learning that sped up manual quality assurance process by 53%.
+- Previously,
+    - built Stable Diffusion-based webapp that transforms user input into creative artwork in my [senior capstone project](https://dsc180-b11-2.github.io/layout-grounded-optimization/), advised by *Dr. Alex Cloninger and Dr. Rayan Saab.* 
     - built ad-hoc web3 market data dashboards & statistical models at [Franklin Templeton](https://www.franklintempleton.com/).
 
-**Looking for:**
-- I'm looking for new grad roles data scientist, data analyst and software engineer.
-- Find me for:
+<h6>Looking for:</h6>
+- `new grad` roles **data scientist, data analyst and software engineer**
+- ✅ Find me for:
     - data-mining & machine learning
-    - integrate deep learning models into user-friendly environments
+    - deploying deep learning models into accessible, user-friendly applications
     - bridging technical & non-technical teams
-    - getting things done.
+    - getting things done 
 
-**Myself:**
+<h6>Myself:</h6>
 - 💬 Some of my other interests include calligraphy, hiking, & boxing.
 - 🌏 Fun fact: I've lived in China, Canada and the States growing up 
 

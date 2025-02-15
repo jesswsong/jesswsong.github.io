@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: Abnormal MEG Spike Detection 
+description: Conducted at Qualcomm Institute / Under Construction
+img: assets/img/qi_waves.png
+importance: 3
 category: work
-giscus_comments: true
+tags: ["deep learning", "research", "AWS"]
 ---
 
 Every project has a beautiful feature showcase page.
