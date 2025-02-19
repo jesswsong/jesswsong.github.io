@@ -19,7 +19,7 @@ Hi there 👋
 I'm a senior at [UC San Diego](https://www.hdsi.ucsd.edu/) studying Data Science & Math. 
 
 <h6>My work:</h6>
-- 🤩 I'm interested in `understanding` the people behind data and `derive` business solutions accordingly.
+- 🤩 I'm interested in `understanding` the people behind data and `building` solutions accordingly.
 - Latest: developed automation solutions at [Wells Fargo](https://www.wellsfargo.com/) using ML and deep learning that sped up manual quality assurance process by 53%.
 - Previously,
     - built Stable Diffusion-based webapp that transforms user input into creative artwork in my [senior capstone project](https://dsc180-b11-2.github.io/layout-grounded-optimization/), advised by *Dr. Alex Cloninger and Dr. Rayan Saab.* 
